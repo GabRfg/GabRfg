@@ -1,7 +1,7 @@
 <!-- PROFILE README — GabRfg -->
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=59C1FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Gabriel+Fadel;Back-end+%7C+Data+%7C+Integrations" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=59C1FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Gabriel+Fadel;" alt="Typing intro" />
 
   <p>
     I'm Gabriel! Fullstack Developer.
