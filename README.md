@@ -1,11 +1,10 @@
 <!-- PROFILE README — GabRfg -->
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=59C1FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Gabriel+Fadel+(GabRfg);Back-end+%7C+Data+%7C+Integrations" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=59C1FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Gabriel+Fadel;Back-end+%7C+Data+%7C+Integrations" alt="Typing intro" />
 
   <p>
-    Desenvolvedor focado em <b>Python/Node</b>, <b>SQL</b> e <b>integrações</b> (ETL, automações, APIs) — gosto de
-    deixar processos <b>confiáveis</b>, <b>observáveis</b> e <b>fáceis de manter</b>.
+    I'm Gabriel! Fullstack Developer.
   </p>
 
   <a href="https://komarev.com/ghpvc/?username=GabRfg&style=flat&color=blue">
@@ -24,16 +23,14 @@
 ## ⚙️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,regex,js,ts,nodejs,express,react,nextjs,materialui,tailwind,vite,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nestjs,materialui,tailwind,vite,html,css" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,git,github,linux,docker,nginx,jenkins,githubactions,grafana,prometheus,postman,vercel,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,git,github,linux,docker,nginx,jenkins,githubactions,grafana,prometheus,postman,firebase" />
 </p>
-
-> **Atual foco:** Python + SQL (SQL Server/Postgres), integrações por e-mail/IMAP, automações ETL, APIs REST, containers Docker, observabilidade com Grafana/Prometheus/Loki.
 
 ---
 
-## ☁️ Cloud & DevOps (layout inspirado nas prints)
+## ☁️ Cloud & DevOps
 
 **DevOps / Infra:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -52,7 +49,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-4A90E2?style=flat)
@@ -64,7 +60,6 @@
 
 **Access / Auth:**  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Cognito](https://img.shields.io/badge/AWS%20Cognito-DD344C?style=flat&logo=amazonaws&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-1F6FEB?style=flat)
 
 ---
@@ -83,16 +78,14 @@
 
 ---
 
-## 📦 Projects (amostras)
+## 📦 Projects
 
-| Name | Showcase | Description |
-|---|---|---|
-| Intranet Orga (React + MUI) | _link do deploy_ | Portal interno com módulos (Booking, Apontamento, Chat/AI etc.). |
-| Integrações Distribuidores (Python) | _repo/link_ | ETLs por e-mail/IMAP, parsing de TXT/CSV, gravação em SQL Server/Postgres. |
-| Monitor de Crons (Grafana/Prometheus/Loki) | _repo/link_ | Observabilidade de jobs, painéis e alertas. |
-| Controle de Estoque API (Node/Sequelize/PostgreSQL) | _repo/link_ | API REST com autenticação e módulos de movimentação. |
-
-> _Dica_: fixe (pin) os repositórios principais para aparecerem no topo do perfil.
+| Name | Description |
+|---|---|
+| Intranet Orga (React + MUI) | Portal interno com módulos (Booking, Apontamento, Chat/AI etc.). |
+| Integrações Distribuidores (Python) | ETLs por e-mail/IMAP, parsing de TXT/CSV, gravação em SQL Server/Postgres. |
+| Monitor de Crons (Grafana/Prometheus/Loki) | Observabilidade de jobs, painéis e alertas. |
+| Controle de Estoque API (Node/Sequelize/PostgreSQL) | API REST com autenticação e módulos de movimentação. |
 
 ---
 
