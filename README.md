@@ -25,7 +25,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nestjs,materialui,tailwind,vite,html,css" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,git,github,linux,docker,nginx,jenkins,githubactions,grafana,prometheus,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,git,github,linux,docker,nginx,jenkins,githubactions,postman,firebase" />
 </p>
 
 ---
@@ -49,9 +49,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-4A90E2?style=flat)
 
 **Compute / Processing:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -69,8 +66,6 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GabRfg&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true)
-  
-![Streak](https://streak-stats.demolab.com?user=GabRfg&theme=tokyonight&hide_border=false)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=tokyonight&langs_count=10)
 
@@ -95,5 +90,3 @@
 - ✉️ **E-mail:** <a href="mailto:gabsfadelrfg@gmail.com">gabsfadelrfg@gmail.com</a>
 
 ---
-
-> “Great things are not done by impulse, but by a series of small things brought together.” – Vincent van Gogh
