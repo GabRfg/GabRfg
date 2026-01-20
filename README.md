@@ -16,9 +16,6 @@
   <a href="mailto:gabsfadelrfg@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-gabsfadelrfg%40gmail.com-3b82f6?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a
-    ![](https://komarev.com/ghpvc/?username=GabRfg&color=blue) >
-  </a>
 </div>
 
 ---
