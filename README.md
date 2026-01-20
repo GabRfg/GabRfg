@@ -28,39 +28,6 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,git,github,linux,docker,nginx,jenkins,githubactions,postman,firebase" />
 </p>
 
----
-
-## ☁️ Cloud & DevOps
-
-**DevOps / Infra:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-1D63ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-**API / Messaging:**  
-![REST](https://img.shields.io/badge/REST-111827?style=flat)
-![Webhooks](https://img.shields.io/badge/Webhooks-111827?style=flat)
-![WebSocket](https://img.shields.io/badge/WebSocket-111827?style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=111827)
-
-**Storage / Databases & Logging:**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Compute / Processing:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Cron](https://img.shields.io/badge/Cron%20Jobs-111827?style=flat)
-
-**Access / Auth:**  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-1F6FEB?style=flat)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
