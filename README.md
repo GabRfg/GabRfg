@@ -7,8 +7,8 @@
     I'm Gabriel! Fullstack Developer.
   </p>
 
-  <a>
-    ![](https://komarev.com/ghpvc/?username=GabRfg&color=blue)
+  <a
+    ![](https://komarev.com/ghpvc/?username=GabRfg&color=blue) >
   </a>
   <a href="https://komarev.com/ghpvc/?username=GabRfg&style=flat&color=blue">
     <img src="https://komarev.com/ghpvc/?username=GabRfg&style=flat&color=0CA6E9" alt="profile views" />
