@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Technologies & Tools
+## Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nestjs,materialui,html,css" />
@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,docker,nginx,jenkins,postman" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 - 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/alfred-gabriel-ribeiro-fadel-developer/">/in/alfred-gabriel-ribeiro-fadel-developer/</a>  
 - ✉️ **E-mail:** <a href="mailto:gabsfadelrfg@gmail.com">gabsfadelrfg@gmail.com</a>
