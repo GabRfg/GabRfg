@@ -23,7 +23,7 @@
 ## Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nestjs,materialui,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,materialui,html,css" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,docker,nginx,jenkins,postman" />
 </p>
