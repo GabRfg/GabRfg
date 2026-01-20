@@ -28,6 +28,10 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,docker,nginx,jenkins,postman" />
 </p>
 
+---
+![](https://komarev.com/ghpvc/?username=GabRfg&color=blue)
+---
+
 ## GitHub Stats
 
 <div align="center">
