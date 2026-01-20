@@ -23,9 +23,9 @@
 ## ⚙️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nestjs,materialui,tailwind,vite,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nestjs,materialui,html,css" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,git,github,linux,docker,nginx,jenkins,githubactions,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,docker,nginx,jenkins,postman" />
 </p>
 
 ## 📊 GitHub Stats
