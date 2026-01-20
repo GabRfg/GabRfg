@@ -40,17 +40,6 @@
 
 ---
 
-## 📦 Projects
-
-| Name | Description |
-|---|---|
-| Intranet Orga (React + MUI) | Portal interno com módulos (Booking, Apontamento, Chat/AI etc.). |
-| Integrações Distribuidores (Python) | ETLs por e-mail/IMAP, parsing de TXT/CSV, gravação em SQL Server/Postgres. |
-| Monitor de Crons (Grafana/Prometheus/Loki) | Observabilidade de jobs, painéis e alertas. |
-| Controle de Estoque API (Node/Sequelize/PostgreSQL) | API REST com autenticação e módulos de movimentação. |
-
----
-
 ## 🤝 Connect with me
 
 - 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/alfred-gabriel-ribeiro-fadel-developer/">/in/alfred-gabriel-ribeiro-fadel-developer/</a>  
