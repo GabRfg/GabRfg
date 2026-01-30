@@ -37,10 +37,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=tokyonight&langs_count=10" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabRfg&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🤝 Connect with me
