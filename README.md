@@ -1,10 +1,9 @@
-<!-- PROFILE README — GabRfg -->
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=59C1FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B" alt="Typing intro" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=59C1FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Gabriel+!+Fullstack+Developer" alt="Typing intro" />
 
   <p>
-    I'm Gabriel! Fullstack Developer.
+    Passionate about building scalable applications and solving complex problems.
   </p>
 
   <a href="https://komarev.com/ghpvc/?username=GabRfg&style=flat&color=blue">
@@ -14,13 +13,13 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:gabsfadelrfg@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-gabsfadelrfg%40gmail.com-3b82f6?style=flat&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-3b82f6?style=flat&logo=gmail&logoColor=white">
   </a>
 </div>
 
 ---
 
-## Technologies & Tools
+## 🚀 Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,materialui,html,css" />
@@ -30,19 +29,23 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabRfg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=tokyonight&langs_count=10)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=tokyonight&langs_count=10" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabRfg&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-## Connect with me
+## 🤝 Connect with me
 
-- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/alfred-gabriel-ribeiro-fadel-developer/">/in/alfred-gabriel-ribeiro-fadel-developer/</a>  
+- 🔗 **LinkedIn:** [Alfred Gabriel Ribeiro Fadel](https://www.linkedin.com/in/alfred-gabriel-ribeiro-fadel-developer/)
+- 📧 **Email:** gabsfadelrfg@gmail.com
 
 ---
