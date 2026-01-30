@@ -34,7 +34,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GabRfg&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true)
+![Stats]![GabRfg's GitHub stats](https://github-readme-stats.vercel.app)
+)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=tokyonight&langs_count=10)
 
@@ -45,6 +46,5 @@
 ## Connect with me
 
 - 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/alfred-gabriel-ribeiro-fadel-developer/">/in/alfred-gabriel-ribeiro-fadel-developer/</a>  
-- ✉️ **E-mail:** <a href="mailto:gabsfadelrfg@gmail.com">gabsfadelrfg@gmail.com</a>
 
 ---
