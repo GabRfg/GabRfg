@@ -34,8 +34,6 @@
 
 <div align="center">
 
-![Stats]![GabRfg's GitHub stats](https://github-readme-stats.vercel.app)
-)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=tokyonight&langs_count=10)
 
