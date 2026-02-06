@@ -28,9 +28,13 @@
 
 ## ⚡️ Stats
 
-## 📈 Visão Geral do Perfil
+<div align="center">
+  <img src="https://metrics.lecoq.io/GabRfg?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&isocalendar=1&languages=1&languages.limit=6&config.timezone=America%2FSao_Paulo" alt="Metrics GabRfg" />
+  
+  <br/>
 
-![Metrics](https://metrics.lecoq.io/GabRfg?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&config.timezone=America/Sao_Paulo)
+  <img src="https://streak-stats.demolab.com?user=GabRfg&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
 <hr>
 ---
