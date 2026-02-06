@@ -26,12 +26,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⚡️ Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=tokyonight&langs_count=10" />
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=GabRfg&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GabRfg GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=GabRfg&theme=transparent&count_private=true&border_radius=10&locale=en" alt=""GabRfg" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=GabRfg&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt=""GabRfg Most Used Languages" />
 </div>
 
+<hr>
 ---
 
 ## 🤝 Connect with me
