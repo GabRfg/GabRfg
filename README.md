@@ -28,11 +28,14 @@
 
 ## ⚡️ Stats
 
-<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GabRfg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Status do GitHub de GabRfg" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+</p>
 
-<div align=center>
- (https://github-readme-stats.vercel.app/api?username=GabRfg)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabRfg&theme=radical&hide_border=true" alt="Streak de contribuições" />
+</p>
 
 <hr>
 ---
