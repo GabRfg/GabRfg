@@ -29,11 +29,14 @@
 ## ⚡️ Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/GabRfg?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&isocalendar=1&languages=1&languages.limit=6&config.timezone=America%2FSao_Paulo" alt="Metrics GabRfg" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabRfg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GabRfg Github Stats" />
   
-  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Langs" />
+</div>
 
-  <img src="https://streak-stats.demolab.com?user=GabRfg&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=GabRfg&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&bg_color=0D1117" alt="GitHub Streak" />
 </div>
 
 <hr>
