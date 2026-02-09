@@ -44,6 +44,5 @@
 ## 🤝 Connect with me
 
 - 🔗 **LinkedIn:** [Alfred Gabriel Ribeiro Fadel](https://www.linkedin.com/in/alfred-gabriel-ribeiro-fadel-developer/)
-- 📧 **Email:** gabsfadelrfg@gmail.com
 
 ---
