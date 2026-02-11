@@ -34,15 +34,17 @@
 
 <div align="center">
   <a href="https://github.com/GabRfg">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabRfg&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF&text_color=9f9f9f&icon_color=3399FF&count_private=true" alt="GabRfg Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GabRfg&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF&text_color=9f9f9f&icon_color=3399FF" alt="GabRfg Stats" />
   </a>
   <a href="https://github.com/GabRfg">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=transparent&hide_border=true&title_color=3399FF&text_color=9f9f9f&langs_count=6" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabRfg&layout=compact&theme=transparent&hide_border=true&title_color=3399FF&text_color=9f9f9f&langs_count=6" alt="Top Langs" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github.com/GabRfg/GabRfg/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GabRfg/GabRfg/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <hr />
