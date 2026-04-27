@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer++" alt="Typing SVG" />
 
   <p align="center">
-     Desenvolvedor Fullstack focado em criar soluções robustas e apagar incêndios 🔥<br>
-     Acredito que fazer <b>deploy na sexta-feira</b> é a forma moderna de assinar contrato com o diabo 👹<br>
-     Atualmente trabalhando com arquitetura de software e torcendo para o servidor não cair no final de semana.
+      Full-Stack Developer by day, professional firefighter by night 🔥<br>
+      Pushing to <b>production on Friday</b> is the modern equivalent of making a deal with the devil 👹<br>
+      Currently keeping the servers alive with duct tape, caffeine, and hope.
   </p>
 
 <p align="center">
