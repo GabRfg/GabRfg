@@ -16,7 +16,7 @@ jobs:
       contents: write
     steps:
       - name: Clone repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
