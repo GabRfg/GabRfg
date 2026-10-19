@@ -13,11 +13,10 @@
 ### 👋 About me
 
 - 🇧🇷 Systems analyst and developer in Curitiba, Brazil
-- 🗄️ I live where databases, backend and infrastructure meet — three years keeping
+- 🗄️ I live where databases, backend and infrastructure meet — keeping
   ERPs and internal systems alive in production
 - 🔎 My favourite kind of problem: a query that was fast last week and isn't anymore
 - 🔐 Currently leading the technical side of an ISO 27001 implementation
-- 📚 Reading *Designing Data-Intensive Applications*, slowly and with a notebook
 
 ---
 
